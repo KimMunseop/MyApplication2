@@ -5,4 +5,5 @@ package com.example.hysia.myapplication;
  */
 
 public class TestObject {
+    // LOG
 }
